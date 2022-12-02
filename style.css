@@ -13,6 +13,7 @@
     "Apple Color Emoji",
     "Segoe UI Emoji",
     "Segoe UI Symbol";
+    
 }
 
 .container{
@@ -156,6 +157,8 @@
     height: 240px;
     width: 240px;
     padding: 24px;
+    background-color: #fff;
+
 }
 .number{
     font-size: 50px;
@@ -164,6 +167,10 @@
 }
 .title{
     font-size: 20px;
+}
+.s-link{
+    text-decoration: none;
+    color: white;
 }
 /* Navbar section */
 .icon{
@@ -305,16 +312,17 @@
 
 .home{
     padding-top: 100px;
-    /* background-color: ; */
+    background-color: #fff;
 }
 /* Services section */
 .services{
     padding-top: 100px;
-
+    background-color: #fff;
 }
 
 .footer{
     padding-top: 80px;
+    padding-bottom: 150px;
     background-color: #5C1010;
     color: white;
 }
