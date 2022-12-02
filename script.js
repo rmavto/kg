@@ -7,7 +7,6 @@ mediaButton.onclick = function () {
   mainListDiv.classList.toggle("show_list");
   mediaButton.classList.toggle("active");
 };
-
 var modal = document.querySelector(".modal");
 var trigger = document.querySelector(".float");
 var closeButton = document.querySelector(".close-button");
